@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Vinicius Paixão
 
-- 👋 Olá! Eu sou o Vinícius Paixão
 - 🎯 Atualmente em transição de carreira para a área de Engenharia e Análise de Dados
 - 📚 Estudando Python, Pandas, SQL, Power BI e Machine Learning
 - 📊 Apaixonado por transformar dados em insights valiosos
