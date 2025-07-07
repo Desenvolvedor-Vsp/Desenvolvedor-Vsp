@@ -5,6 +5,13 @@
 - 📊 Apaixonado por transformar dados em insights valiosos
 - 📫 Entre em contato: contatoPaixaoVinicius@gmail.com
 
+🚀 Minhas Habilidades
+- Linguagens: Python, SQL, R (em progresso)
+- Bibliotecas Python: Pandas, NumPy, Matplotlib, Seaborn
+- Ferramentas de Visualização: Power BI, Tableau (básico)
+- Banco de Dados: MySQL, SQLite
+- Outros: Git, GitHub, Excel Avançado
+
 <div align="center">
   <a href="https://github.com/Desenvolvedor-Vsp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Desenvolvedor-Vsp&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
