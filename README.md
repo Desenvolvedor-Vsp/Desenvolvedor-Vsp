@@ -1,9 +1,10 @@
 ### Olá! Eu sou o Vinicius Paixão
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React
-- 💬 Contate-me no email: contatoPaixaoVinicius@gmail.com
-- 😄 Pronouns: ele/dele
+👋 Olá! Eu sou o Vinícius Paixão
+🎯 Atualmente em transição de carreira para a área de Engenharia e Análise de Dados
+📚 Estudando Python, Pandas, SQL, Power BI e Machine Learning
+📊 Apaixonado por transformar dados em insights valiosos
+📫 Entre em contato: contatoPaixaoVinicius@gmail.com
 
 <div align="center">
   <a href="https://github.com/Desenvolvedor-Vsp">
